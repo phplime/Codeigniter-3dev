@@ -1,0 +1,13 @@
+{
+    "name": "nazmul/codeigniter-3dev",
+    "description": "Codeigniter 3.2.dev And compatibility with PHP 8.1.12",
+    "type": "project",
+    "require": {
+        "smottt/wideimage": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Nazmul Hossain"
+        }
+    ]
+}
